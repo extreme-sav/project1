@@ -1,1 +1,19 @@
-
+{
+    "$schema": "https://github.com/extreme-sav/jenkins-lib/develop/resources/schema.json",
+    "v8version": "8.3",
+    "edtVersion": "2022.2.5:x86_64",
+    "secrets": {
+        "storagePath": "extreme-sav_jenkins-lib_STORAGE_PATH",
+        "storage" : "extreme-sav_project1_STORAGE_USER"
+    },
+    "stages": {
+        "initSteps": false,
+        "sonarqube": false,
+        "bdd": true,
+        "syntaxCheck": false,
+        "edtValidate": true,
+        "smoke": false,
+        "email": false,
+        "telegram": false
+    }
+}
