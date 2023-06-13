@@ -2,6 +2,9 @@
     "$schema": "https://github.com/extreme-sav/jenkins-lib/develop/resources/schema.json",
     "v8version": "8.3",
     "edtVersion": "2022.2.5:x86_64",
+    "srcDir": "Управляемое_приложение_SQL/src",
+    "sourceFormat": "designer",
+    "defaultBranch": "main",
     "secrets": {
         "storagePath": "extreme-sav_jenkins-lib_STORAGE_PATH",
         "storage" : "extreme-sav_project1_STORAGE_USER"
