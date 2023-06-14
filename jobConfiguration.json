@@ -10,12 +10,12 @@
         "storage" : "extreme-sav_project1_STORAGE_USER"
     },
     "stages": {
-        "initSteps": false,
-        "sonarqube": false,
+        "initSteps": true,
+        "sonarqube": true,
         "bdd": true,
-        "syntaxCheck": false,
+        "syntaxCheck": true,
         "edtValidate": true,
-        "smoke": false,
+        "smoke": true,
         "email": false,
         "telegram": false
     }
