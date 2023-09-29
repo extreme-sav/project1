@@ -19,4 +19,7 @@
         "email": false,
         "telegram": false
     }
+	"initInfobase": {
+		"initMethod": "fromSource"
+	}
 }
