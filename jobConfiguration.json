@@ -22,5 +22,5 @@
     "initInfobase": {
         "initMethod": "fromSource",
         "runMigration" : true
-    },
+    }
 }
