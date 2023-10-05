@@ -7,7 +7,7 @@
     "defaultBranch": "main",
     "secrets": {
         "storagePath": "extreme-sav_jenkins-lib_STORAGE_PATH",
-        "storage" : "extreme-sav_project1_STORAGE_USER"
+        "storage" : "extreme-sav_project1_STORAGE_USER_1"
     },
     "stages": {
         "initSteps": true,
