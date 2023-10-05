@@ -1,6 +1,6 @@
 {
     "$schema": "https://github.com/extreme-sav/jenkins-lib/develop/resources/schema.json",
-    "v8version": "8.3",
+    "v8version": "8.3.22.1923",
     "edtVersion": "2023.1.4:x86_64",
     "srcDir": "Управляемое_приложение_SQL/src",
     "sourceFormat": "designer",
