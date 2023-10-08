@@ -13,6 +13,7 @@
         "initSteps": true,
         "bdd": true,
         "syntaxCheck": true,
+        "edtValidate": false,
         "smoke": true,
         "sonarqube": true,
         "email": false,
