@@ -11,10 +11,10 @@
     },
     "stages": {
         "initSteps": true,
-        "sonarqube": true,
         "bdd": true,
         "syntaxCheck": true,
         "smoke": true,
+        "sonarqube": true,
         "email": false,
         "telegram": false
     }
