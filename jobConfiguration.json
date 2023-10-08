@@ -18,9 +18,5 @@
         "smoke": true,
         "email": false,
         "telegram": false
-    },
-    "initInfobase": {
-        "initMethod": "fromStorage",
-        "runMigration" : false
     }
 }
