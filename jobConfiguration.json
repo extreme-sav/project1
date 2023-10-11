@@ -18,9 +18,5 @@
         "sonarqube": true,
         "email": false,
         "telegram": false
-    },
-    "initInfobase": {
-        "initMethod": "fromStorage",
-        "runMigration": true
     }
 }
