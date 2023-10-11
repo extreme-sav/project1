@@ -21,7 +21,6 @@
     },
     "initInfobase": {
         "initMethod": "fromStorage",
-        "runMigration": true,
-        "additionalInitializationSteps": []
+        "runMigration": true
     }
 }
